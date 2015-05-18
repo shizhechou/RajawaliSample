@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/classes-f0f2b46c8951b7c08845a41ae8c361ce6ba879e1.jar" />
+    </item>
+    <item
+        jar="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/classes-d66dbe1fc99b89abc17f3b439559fec18ec3fd52.jar" />
+    </item>
+    <item
+        jar="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.186-SNAPSHOT/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dbfabc2a4c08b8f8d0f709c3f343ac40ae83483f">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/classes-71d16d756440d3a82a7e3fd0f12dd3cf1c5b0359.jar" />
+    </item>
+    <item
+        jar="/Users/shizhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-769efc901ffe9e195fcc207e72cbff22d0e2b176.jar" />
+    </item>
+    <item
+        jar="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/libs/cardboard.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="362279d4f3f879ad389c300e0bc1f188ad522a08">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/cardboard-34f1d0fe8652a40060a591a504321a2d3712f7b0.jar" />
+    </item>
+    <item
+        jar="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/shizhe/AndroidstudioProjects/VRHomeCardboard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5e0aa6585ff3ec7a80fc2d0040aea2eb36f8e47d.jar" />
+    </item>
+
+</items>
